@@ -13,12 +13,6 @@ You can install the package via composer:
 composer require bengr/bunnycdn
 ```
 
-You can publish the config file with:
-
-```bash
-php artisan vendor:publish --tag="bunnycdn-config"
-```
-
 ## Usage
 
 ## Credits
